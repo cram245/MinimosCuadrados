@@ -1,0 +1,9 @@
+5. [1.5 punts] Es vol ajustar una funció de la forma 𝑝(𝑥)=𝑎+𝑏*exp(−𝑐*𝑥^2), amb 𝑎,𝑏,𝑐 ∈ 𝑅, a les dades següents:
+
+𝑥_𝑘		0		0.2		0.4		0.6		0.8		1
+𝑓_𝑘 	0.7		0.45	0.026	–0.22	–0.29	–0.3
+
+
+a) Proposa una metodologia per a trobar els coeficients 𝑎,𝑏,𝑐 ∈ 𝑅 de manera que es minimitzi l’error al quadrat a les dades.
+
+b) Implementa el càlcul amb Python.
